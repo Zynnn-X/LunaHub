@@ -1,14 +1,6 @@
 local Loaders = {
     {
-        ids = {18126510175}, -- Rivals
-        url = "https://api.jnkie.com/api/v1/luascripts/public/3f762ebefd234fb7ead9944bad534d02f3d56e2cdd45ac3bcd91bfa2aa46eee9/download"
-    },
-    {
-        ids = {17625359962}, -- Rivals
-        url = "https://api.jnkie.com/api/v1/luascripts/public/3f762ebefd234fb7ead9944bad534d02f3d56e2cdd45ac3bcd91bfa2aa46eee9/download"
-    },
-    {
-        ids = {117398147513099}, -- Rivals
+        ids = {18126510175, 17625359962, 117398147513099}, -- Rivals
         url = "https://api.jnkie.com/api/v1/luascripts/public/3f762ebefd234fb7ead9944bad534d02f3d56e2cdd45ac3bcd91bfa2aa46eee9/download"
     },
     {
