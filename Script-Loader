@@ -6,6 +6,11 @@ local Loaders = {
         url = "https://api.jnkie.com/api/v1/luascripts/public/3f762ebefd234fb7ead9944bad534d02f3d56e2cdd45ac3bcd91bfa2aa46eee9/download"
     },
     {
+        ids = {130594398886540}, -- Garden Horizon
+        url = "https://api.jnkie.com/api/v1/luascripts/public/9db2bd0673592e62dfd82bee0f3b14e8a37fbf3f070c84a92107d493cb0d0a32/download" 
+
+    }, 
+    {
        ids = {136801880565837}, -- Flick
        url = "https://api.jnkie.com/api/v1/luascripts/public/6b6ef1457c741ada3f4d546a8b0c1f5d994da87cce13360a9bb3a18a46741646/download"
     },
