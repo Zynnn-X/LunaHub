@@ -19,7 +19,7 @@ local Loaders = {
         url = "https://api.jnkie.com/api/v1/luascripts/public/d17f1f368592eecb2c9b2199a08ba9e553a10e051c5ebd88f3ca46d5f86ba37b/download"
     },
     {
-        ids = {3623096087}, -- Legend Legend
+        ids = {3623096087}, -- Muscle Legend
         url = "https://api.jnkie.com/api/v1/luascripts/public/9d3572bff37d7434618c778da2f1b01734bf6944396af93b65cfa88ec073bd0c/download"
     }
 }
